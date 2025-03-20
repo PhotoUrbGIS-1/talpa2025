@@ -1,0 +1,1 @@
+var json_BaslicadeNuestraSeoradelRosariodeTalpa_13 = {"type":"FeatureCollection","name":"BaslicadeNuestraSeoradelRosariodeTalpa_13","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null},"geometry":{"type":"Point","coordinates":[-104.821809552473042,20.381049233219503]}}]}
